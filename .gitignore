@@ -1,0 +1,3 @@
+*.log
+temp/
+private_info.txt
